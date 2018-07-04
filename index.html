@@ -37,6 +37,25 @@ layout: default
       </a>
     </div>
 
+<br> <br>
+    <! -- Welcome and videos -->
+    <center>
+<div class="container">
+      <div class="row">
+
+<video width="1000" controls autoplay>
+  <source src="/images/videoplayback.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<p>
+Video courtesy:
+<a href="https://www.youtube.com/watch?v=fSXtq2NU56c" target="_blank">youtube</a>.
+</p>	
+	</center>
+	</div>
+    </div>
+
     <!-- News and Spotlight Events  --> 
     <div class="container">
 
@@ -101,74 +120,16 @@ layout: default
          </div>
         </div>
 
-<!-- #Removing for now - krithika-->
-<!-- #Recent Publications -->
-<!--
-        <div class="row">
-        <div class="col-12 " >
-          <div class="pub-container">
-          <h3 class="section-title mt-4" > Recent Publications </h3>
-          <ol class="px-0 mx-0 publications list">
-            {% for paper in site.data.publications_sorted limit:2 %}
-              <li>
-                <span class="pub-title">{{ paper.title}} </span> 
-                <span class="pub-authors">
-                {% assign authors = paper.author | split: " and " %}
-                {% assign str = "" %}
-                {% for author in authors %} 
-                  {% assign curr_str =  author | split: "," | reverse | join: " "| append:", " %}
-                  {% assign str = str | append: curr_str %} 
-                {% endfor %}
-                {% assign len = str | size | minus:2 %}
-                {{ str | slice:0, len }}
-                </span>
-                <span class="pub-journal">{{ paper.journal }}</span>
-                <span class="pub-year">({{ paper.year }})</span>
-                <span class="pub-location"></span>
-                <span class="pub-tail">
-                  {{ paper.volume }}
-                  {% if paper.number %} ({{ paper.number }}) {% endif %}
-                  {{ paper.pages}}
-                </span>
-                <span class="pub-links"> 
-                  {% if paper.link %}<a href="{{ paper.link }}">pdf</a> {% endif %}
-                  <a href="#">git</a> 
-                </span>
-              </li>
-             {% endfor %}
-              <li class="border-0">
-               <a class="btn btn-primary btn-sm btn-view-more ripple" role="button" href="publications"> <strong> + </strong>  View More Publications </a>
-              </li>
-
-            </ol>
-            </div>
-            </div>
-            </div>
-
-    </div>
--->
-
-<!--    <div class="container mt-3" >
-      <div class="row"> -->
-<!--        <div class="col-3 pt-5">
-          <a href="http://www.webscience.org" target="_blank"><img class="pt-4" src="images/webtrust_logo_blue.jpg" width="250" /></a>
-        </div> -->
-<!--        <div class="col-9 collab-section" > -->
         <div >
-        <h3 class="section-title text-center"> Government and Industry Collaborators </h3>
-        <div class="container">
-          <div class="row align-items-center no-gutters">
-             <div class="col-2 text-center right-shadow zindex-sticky py-2">
-              <img width="150"   class="my-2 pr-3 brand-logo" src="images/logo.jpg"> 
-            </div>
-            <div class="col-10">
-              <marquee behaviour="scroll" loop="1" scrollamount="2" direction="left" height="108" >
-                  {% for collaborator in site.data.collaborators  %}
-                       <img  width="150" class="my-2 mx-3" src="images/collaborators/{{ collaborator.image }}"> 
-                  {% endfor %}
-              </marquee>
-            </div>
-          </div>
+        <h3 class="section-title text-center"> Partner institutions </h3>
+                  {% for partner in site.data.partners  %}
+                       <img  width="100" class="my-2 mx-3" src="images/partners/{{ partner.image }}"> 
+		  {% endfor %}
         </div>
-      </div>
-    </div>
+   <div class="container">
+        <h3 class="section-title text-center"> Funding bodies </h3>
+ <img  width="100" class="my-2 mx-3" src="images/innoindigo.jpeg">
+ <img  width="100" class="my-2 mx-3" src="images/partners/dst.jpeg">
+ <img  width="100" class="my-2 mx-3" src="images/partners/dstEurope.jpeg">
+	</div>
+ 

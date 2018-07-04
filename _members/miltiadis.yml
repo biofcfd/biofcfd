@@ -1,0 +1,20 @@
+---
+layout: member
+name: Miltiadis V. Papalexandris 
+title: Miltiadis Papalexandris 
+image: miltiadis.jpg
+homepage: https://sites.google.com/site/mvpapalexandris/
+designations: 
+  - Professor
+  - Institute of Mechanics, Materials & Civil Engineering 
+  - Universite catholique de Louvain
+areas: 
+  - Computational Fluid Dynamics
+  - Multi-phase flows
+  - Reacting flows
+email:
+  - miltiadis.papalexandris@uclouvain.be
+bio: 
+
+type: faculty
+---

@@ -1,0 +1,19 @@
+---
+layout: member
+name: Anand Krishnasamy
+title: Anand Krishnasamy
+image: anandk.png
+homepage: https://home.iitm.ac.in/anand_k/
+designations: 
+  - Assistant Professor
+  - Department of Mechanical Engineering
+  - IIT Madras
+areas: 
+  - Experimental and numerical investigations on low temperature combustion engines
+  - Automotive fuel surrogate modeling 
+  - High efficiency, clean combustion engines through fuel modifications.
+email:
+  - anand_k@iitm.ac.in
+bio: Dr. Anand Krishnasamy received his PhD from Indian Institute of Technology Madras, India in 2010. He worked as Post Doctoral Research Fellow at Engine Research Center, University of Wisconsin-Madison for three years from 2010 to 2013 before joining IIT Madras.
+type: faculty
+---

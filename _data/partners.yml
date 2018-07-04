@@ -1,0 +1,10 @@
+- name: iitm
+  image: iitm.jpg
+- name: unigoa
+  image: unigoa.jpeg
+- name: ptb
+  image: ptb.png
+- name: helsinsky
+  image: helsinsky.png
+- name: ucl
+  image: ucl.png

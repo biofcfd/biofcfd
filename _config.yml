@@ -1,4 +1,4 @@
-title: Thermodynamics and Combustion Engineering Laboratory
+title: BioFCFD consortium
 
 email:  varuns@iitm.ac.in
 
@@ -8,7 +8,7 @@ description: >
 timezone: "Asia/Kolkata"
   
 baseurl: "" 
-url    : "https://tdceiitm.github.io/"
+url    : "https://biofcfd.github.io/"
 
 include: ['_pages']
 
