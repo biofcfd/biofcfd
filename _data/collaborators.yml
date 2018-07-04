@@ -1,0 +1,10 @@
+- name: dst
+  image: dst.jpeg
+- name: ge
+  image: ge.png
+- name: flsmidth
+  image: flsmidth.png
+- name: isro
+  image: isro.png
+- name: drdo
+  image: drdo.jpeg
