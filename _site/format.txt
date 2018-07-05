@@ -1,0 +1,42 @@
+% -------------------------------- %
+% -------------------------------- %
+II. Research relevant to BioFCFD
+%----------- Template ------------ %
+% Example: mb_kinetics.yml (attached) %
+% Repeat and fill out as many blocks of lines 8--12 to include multiple research entries %
+% -------------------------------- %
+title: Title comes here
+description: Description comes here
+image: name-of-image-file.jpg (include the image file as an attachment)
+publication: Link for publication comes here (if applicable)
+cite: Author name, full citation comes here (if applicable)
+% -------------------------------- %
+
+
+% -------------------------------- %
+% -------------------------------- %
+III. People
+FOR YOURSELF
+%Provide your bio and image; Suggest any changes for areas
+image: name-of-image.jpg  (include the image file as an attachment)
+areas: 
+  - area 1
+  - area 2
+  - more areas
+bio: Short bio
+
+For students, alumni, staff, please follow template below
+%----------- Template ------------ %
+% Example: aditya.md (attached) %
+% Repeat and fill out as many blocks of lines 33--41 to include multiple research entries %
+% -------------------------------- %
+name: Name of person
+image: name-of-image.jpg (include the image file as an attachment)
+homepage: homepage link comes here
+designations: 
+  - this field can be MS student /PhD scholar/Admin/Project assistant
+area: area 1, area 2, areas 3, and so on.
+bio: Short bio comes here
+email: email address
+type:  this field can be student/staff/alumni
+

@@ -1,6 +1,6 @@
 title: BioFCFD consortium
 
-email:  varuns@iitm.ac.in
+email:  krithika@iitm.ac.in
 
 description: >
   This lab's goal ... 
@@ -8,7 +8,7 @@ description: >
 timezone: "Asia/Kolkata"
   
 baseurl: "" 
-url    : "https://biofcfd.github.io/"
+url    : "https://biofcfd.github.io"
 
 include: ['_pages']
 
