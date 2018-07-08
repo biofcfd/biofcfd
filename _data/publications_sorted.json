@@ -1,4 +1,10 @@
 [
-{'volume': '', 'doi': '', 'author': 'Aditya Lele and Sonal K. Vallabhuni and Kai Moshammer and Ravi X. Fernandes and Anand Krishnasamy and Krithika Narayanaswamy', 'url': '', 'journal': 'Combustion and Flame (in press)', 'issn': '', 'number': '', 'ID': 'Lele18', 'note': '', 'pages': '', 'year': '2018', 'title': ' Experimental and chemical kinetic modeling investigation of methyl butanoate as a component of biodiesel surrogate', 'ENTRYTYPE': 'article'}
+{'volume': '', 'doi': '', 'author': 'Aditya Lele and Sonal K. Vallabhuni and Kai Moshammer and Ravi X. Fernandes and Anand Krishnasamy and Krithika Narayanaswamy', 'url': '', 'journal': 'Combustion and Flame (in press)', 'issn': '', 'number': '', 'ID': 'Lele18', 'note': '', 'pages': '', 'year': '2018', 'title': ' Experimental and chemical kinetic modeling investigation of methyl butanoate as a component of biodiesel surrogate', 'ENTRYTYPE': 'article'},
+
+{'volume': '', 'doi': '', 'author': 'G. Esmaeelzade and K. Moshammer and R. Fernandes and D. Markus and H. Grosshans', 'url': '', 'journal': 'Flow, Turbulence and Combustion (in press)', 'issn': '', 'number': '', 'ID': 'Esmaeelzade18', 'note': '', 'pages': '', 'year': '2018', 'title': 'Numerical study of the mixing inside a jet stirred reactor using large eddy simulations', 'ENTRYTYPE': 'article'},
+
+{'title': 'Analysis of the turbulent flow structure in a jet stirred reactor using proper orthogonal decomposition', 'booktitle': 'XXII World Congress of the International Measurement Confederation (IMEKO), September 3-6, Belfast, UK', 'author': 'E. Hodzic and G. Esmaeelzade and K. Moshammer and R. Fernandes and D. Markus and H. Grosshans', 'ID': 'Hodzic2018', 'year': '2018', 'ENTRYTYPE': 'inproceedings'},
+
+{'title': 'Numerical study of the mixing inside a jet stirred reactor using large eddy simulations', 'booktitle': 'International Conference on Jets, Wakes and Separated Flows, ICJWSF-2017, October 9-12, Cincinnati, OH, USA', 'author': 'G. Esmaeelzade and K. Moshammer and R. Fernandes and D. Markus and H. Grosshans', 'ID': 'Esmaeelzade17', 'year': '2017', 'ENTRYTYPE': 'inproceedings'}
 
 ]
