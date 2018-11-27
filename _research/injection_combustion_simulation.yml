@@ -1,0 +1,10 @@
+---
+title: Simulation of injection and combustion of Indian-origin biofuels in internal combustion engines.
+description: Our research concerns the modeling and simulation of turbulent reactive multiphase flows. More specifically, we study the application of Indian-origin biofuels in combustion devices. This includes all important processes related to the biofuel injection, such as atomization, evaporation and mixing with the surrounding air. To this end, Large-Eddy simulations will be employed to account for the turbulent gaseous phase. Moreover, the liquid droplets will be tracked individually in a Lagrangian framework. Further, the combustion of the fuel-air mixture will be modeled. A specific computational challenge constitutes the representation of piston movement inside the cylinder which results in a moving grid problem. Our numerical tools will will be compared and validated extensively with data generated in an engine test-bench. Since the usage of biofuels is subjected to certain drawbacks, we will use our validated numerical to investigate the potential of improved schemes of fuel injection so as to better conrol fuel atomization.
+more: 
+image: 
+type: basic
+publication: 
+cite: 
+---
+	
